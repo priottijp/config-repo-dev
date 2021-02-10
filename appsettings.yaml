@@ -1,5 +1,5 @@
 "urls": "http://*:8080",
-  "healthUrl": "/health",
+  "healthUrl": "/probandoJP",
   "connectionString": "Server=tcp:n5-dev.database.windows.net,1433;Initial Catalog=customer-db;Persist Security Info=False;User ID=encinco;Password=3Qf=LW`mn>%es=A'a)CrYm[f;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
   "elasticSearch": {
     "endpointUri": "http://elastic:5ib9lkwB165f705MnV9hvRc8@elasticsearch-n5-es-http.elastic-system.svc.cluster.local:9200",
