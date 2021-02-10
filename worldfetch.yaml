@@ -1,4 +1,4 @@
-"urls": "http://*:8080",
+{"urls": "http://*:8080",
   "healthUrl": "/probandoJP",
   "connectionString": "Server=tcp:n5-dev.database.windows.net,1433;Initial Catalog=customer-db;Persist Security Info=False;User ID=encinco;Password=3Qf=LW`mn>%es=A'a)CrYm[f;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
   "elasticSearch": {
@@ -113,3 +113,4 @@
     ]
   },
   "AllowedHosts": "*"
+}
