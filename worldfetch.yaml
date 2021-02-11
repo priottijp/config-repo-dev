@@ -1,5 +1,5 @@
-urls: http://*:83
-healthUrl: "/health"
+urls: http://*:81
+healthUrl: "/probando"
 connectionString: Server=localhost,1433;Database=customer-db;User Id=sa;Password=SAsasa54
 elasticSearch:
   endpointUri: http://localhost:9200/
